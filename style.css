@@ -1,0 +1,19 @@
+body{
+    background: black;
+    width: 95;
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    color: red;
+}
+
+canvas{
+    background:black;
+    border: 10px double red;
+
+}
